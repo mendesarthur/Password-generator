@@ -1,6 +1,6 @@
 # Password Generator
 
-<img src= "./img/password_print.png" width= "540px">
+<img src= "./img/generator.png" width= "540px">
 
 # Starting🚀
 
