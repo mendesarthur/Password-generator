@@ -58,3 +58,29 @@ button {
   border: none;
   padding: 5px;
 }
+
+@media(max-width: 540px){
+  div{
+    font-size: 15px;
+  }
+  h2{
+    font-size: 25px;
+  }
+  input{
+    font-size: 14px;
+  }
+  #inputLengthId{
+    width: 50%;
+  }
+}
+@media(max-width: 350px){
+  div{
+    width: auto;
+  }
+  h2{
+    font-size: 25px;
+  }
+  input{
+    font-size: 14px;
+  }
+}
